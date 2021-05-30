@@ -1,12 +1,12 @@
 {
   "manifest_version": 2,
 
-  "name": "Snoopie",
-  "short_name": "Snoopie",
-  "description": "Snoopie lets you know when you're being recorded by popular tracking services.",
+  "name": "SnoopieFF",
+  "short_name": "SnoopieFF",
+  "description": "SnoopieFF lets you know when you're being recorded by popular tracking services.",
   "version": "0.1",
-  "author": "David Byttow (d@simplethingsllc.com)",
-  "homepage_url": "https://github.com/davidbyttow/snooptracker",
+  "author": "Chris Clark (chris@alucu.com)",
+  "homepage_url": "https://github.com/KrisSee/snoopie",
 
   "icons": {
     "16": "dog-16.png",
