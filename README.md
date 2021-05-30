@@ -1,4 +1,7 @@
 # Snoopie 🐶
+
+** Still checking port to Firefox **
+
 A (very simple) tracker for popular tracking services, provided as a Firefox web extension.
 Forked from https://github.com/davidbyttow/snoopie and minimal changes for Firefox compatibility
 
